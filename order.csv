@@ -1,0 +1,6 @@
+Order_id,Location_id,quantity,orderprice,invoicenumber,Is_discounted,Cloth_id
+1,1,11,14.75,6218,,1
+2,2,6.5,11.85,6578,,2
+3,3,6.5,16.75,8965,,3
+4,4,7,12.75,6790,,4
+5,5,13,2.75,2390,,1

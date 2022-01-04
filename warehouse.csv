@@ -1,0 +1,6 @@
+Warehouse_id,Warehouse_name,warehouse_region,Location_id
+1,Bulk supply,"Richmond,VA",1
+2,Strict supply,"portland,OR",2
+3,Store supply,"SanAntonio,TX",3
+4,Grateful goods,"Lancaster,PA",4
+5,Happy wholesale,"Columbus,TX",5
